@@ -90,7 +90,7 @@
   <text x="58" y="200" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="22" fill="#8899aa" letter-spacing="5" font-weight="300">PHAN THIỆN QUANG</text>
 
   <!-- Tags at bottom -->
-  <text x="55" y="252" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="600" letter-spacing="2" fill="url(#tagGrad)">RED TEAM / BLUE TEAM / CTF / AI / DEV</text>
+  <text x="55" y="252" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', 'Consolas', monospace" font-size="12" font-weight="600" letter-spacing="2" fill="url(#tagGrad)">RED TEAM / BLUE TEAM / CTF / AI</text>
 
   <!-- ============ RIGHT SIDE: Cybersecurity Shield Logo ============ -->
   <g transform="translate(950, 130)">
