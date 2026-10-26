@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/profile-banner.svg?v=2" alt="NeroPQ Banner" width="100%" />
+  <img src="assets/neropq-pixel-anime-banner.png" alt="NeroPQ pixel anime banner — Red Team, Blue Team, CTF and AI" width="100%" />
 
   <!-- Hiệu ứng chữ chạy kiểu Terminal -->
   <a href="https://github.com/NeroPQ">
@@ -23,7 +23,7 @@
 name:        Phan Thiện Quang
 handle:      NeroPQ
 education:   FPT University 🎓
-community:   Active Member @ SiTi Group 🎨🤝
+affiliation: FPT Information Assurance
 focus_areas:
   red_team:       ["External Pentesting", "OSINT & Recon", "Web/Binary Exploitation"]
   blue_team_&_ai: ["Ransomware AI Detection", "Metadata Defense", "Network Forensics", "Security GRC"]
