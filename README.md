@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/profile-banner.svg" alt="NeroPQ Banner" width="100%" />
+  <img src="assets/profile-banner.svg?v=2" alt="NeroPQ Banner" width="100%" />
 
   <!-- Hiệu ứng chữ chạy kiểu Terminal -->
   <a href="https://github.com/NeroPQ">
