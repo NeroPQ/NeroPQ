@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Wolfsenpai123 profile banner</title>
+  <desc id="desc">Dark cyber-themed banner for Phan Thien Quang, focused on cybersecurity, CTF, blue team, and AI.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071424"/>
+      <stop offset="0.58" stop-color="#0b1930"/>
+      <stop offset="1" stop-color="#13153a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35d6db"/>
+      <stop offset=".5" stop-color="#8f88ff"/>
+      <stop offset="1" stop-color="#f18b8d"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#5477a0" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <clipPath id="round"><rect width="1200" height="310" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="310" fill="url(#background)"/>
+    <rect width="1200" height="310" fill="url(#grid)"/>
+    <circle cx="900" cy="145" r="160" fill="#2a95c2" opacity=".08" filter="url(#glow)"/>
+    <circle cx="1050" cy="145" r="140" fill="#e46c83" opacity=".07" filter="url(#glow)"/>
+    <path d="M0 272 H1200" stroke="#40c9d6" stroke-opacity=".16"/>
+    <path d="M45 40 H725 M45 40 V268 M45 268 H725" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+    <circle cx="66" cy="65" r="5" fill="#37d6d8"/>
+    <circle cx="84" cy="65" r="5" fill="#8c88ff"/>
+    <circle cx="102" cy="65" r="5" fill="#ecb766"/>
+    <text x="126" y="70" fill="#94a9c3" font-family="Consolas, Menlo, monospace" font-size="15">~/profile</text>
+    <text x="68" y="128" fill="#50d9db" font-family="Consolas, Menlo, monospace" font-size="20">&gt; whoami</text>
+    <text x="67" y="189" fill="#f4f8ff" font-family="Arial, sans-serif" font-size="53" font-weight="700" letter-spacing="2">WOLFSENPAI123</text>
+    <text x="69" y="225" fill="#b4c6df" font-family="Arial, sans-serif" font-size="21" letter-spacing="4">PHAN THIỆN QUANG</text>
+    <rect x="68" y="245" width="474" height="2" fill="url(#accent)"/>
+    <text x="70" y="286" font-family="Consolas, Menlo, monospace" font-size="16" letter-spacing="2"><tspan fill="#f18b8d">RED TEAM</tspan><tspan fill="#9edfe3">  /  </tspan><tspan fill="#73dce5">BLUE TEAM</tspan><tspan fill="#9edfe3">  /  CTF  /  AI  /  DEV</tspan></text>
+
+    <g transform="translate(950 151)" fill="none" stroke="#53cbd8">
+      <circle r="112" stroke-opacity=".16" stroke-width="2"/>
+      <circle r="82" stroke-opacity=".24" stroke-width="2" stroke-dasharray="4 10"/>
+      <circle r="53" stroke-opacity=".3" stroke-width="2"/>
+      <path d="M-112 0 H112 M0 -112 V112" stroke-opacity=".16"/>
+      <path d="M0 -85 L-73 42 L0 84" stroke="#79dce4" stroke-width="3"/>
+      <path d="M0 -85 L73 42 L0 84" stroke="#f18b8d" stroke-width="3"/>
+      <path d="M0 -61 L-51 29 L0 59" stroke="#79dce4" stroke-width="3"/>
+      <path d="M0 -61 L51 29 L0 59" stroke="#f18b8d" stroke-width="3"/>
+      <path d="M-31 21 L-15 -5 L0 13 L15 -5 L31 21 L0 39 Z" fill="#55d2dc" fill-opacity=".12" stroke="#76dae4" stroke-width="3" stroke-linejoin="round"/>
+      <circle cx="0" cy="13" r="5" fill="#e7b96a" stroke="none"/>
+      <circle cx="-73" cy="42" r="5" fill="#36d5db" stroke="none"/>
+      <circle cx="73" cy="42" r="5" fill="#f18b8d" stroke="none"/>
+      <circle cx="0" cy="-85" r="5" fill="#36d5db" stroke="none"/>
+    </g>
+    <path d="M765 40 H1132 V268 H765" fill="none" stroke="#718cb2" stroke-opacity=".18" stroke-width="2"/>
+    <text x="1115" y="287" text-anchor="end" fill="#7b94b2" font-family="Consolas, Menlo, monospace" font-size="13">DEFENSE · DISCOVERY · DOCUMENTATION</text>
+  </g>
+</svg>
