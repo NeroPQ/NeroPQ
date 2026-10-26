@@ -21,12 +21,20 @@
 ```yaml
 name: Phan Thiện Quang
 handle: Wolfsenpai123
-education: FPT University
-community: SiTi Group
+education: FPT University 🎓
+roles:
+  - "Cybersecurity Enthusiast & CTF Player 🚩"
+  - "Software & Database Developer 💻"
+  - "Active Member @ SiTi Group 🎨🤝"
 focus:
   red_team: [CTF, reconnaissance, authorized security labs]
   blue_team: [forensics, threat detection, privacy tooling]
   building: [Python tools, web apps, AI experiments]
+interests:
+  security: [Cryptography, Network Forensics, Reverse Engineering, Web/Binary Exploitation, Security GRC]
+  ops_and_dev: [Linux CLI, Backend Scripting, Relational Databases, "SRE & Cloud Fundamentals"]
+  creative: [UI/Visual Design, Pixel Art, "Community & Charity Projects"]
+current_status: "Hunting flags, automating workflows with Python, and building meaningful projects."
 ```
 
 I enjoy both sides of security: understanding how systems break, then building ways to detect and protect them. The projects below are the work behind that description.
@@ -46,9 +54,13 @@ More from the lab: [Grand Larceny Auto reverse engineering write-ups](https://gi
 
 ### 🛠️ Tech stack & security toolkit
 
+#### 💻 Languages, databases & DevOps
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,sqlite,git,docker" alt="Python, Bash, Linux, Flask, SQLite, Git and Docker" />
 </p>
+
+#### 🛡️ Cybersecurity, networking & domains
 
 - **Offense:** `OSINT` · `Burp Suite` · `Nmap` · `CTF`
 - **Defense:** `Forensics` · `SHA-256` · `iptables` · `Metadata analysis`
@@ -61,8 +73,10 @@ More from the lab: [Grand Larceny Auto reverse engineering write-ups](https://gi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfsenpai123&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Languages used in public repositories" height="165" />
 </p>
 
+### 🌐 Connect with me
+
 <p align="center">
-  <a href="https://github.com/Wolfsenpai123?tab=repositories">Explore all repositories</a>
+  <a href="https://github.com/Wolfsenpai123">GitHub profile</a> · <a href="https://github.com/Wolfsenpai123?tab=repositories">Explore all repositories</a>
   <br />
   <sub>“Talk is cheap. Show me the packet capture &amp; the source code.” 🐺⚡</sub>
 </p>
