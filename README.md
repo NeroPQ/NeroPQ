@@ -23,7 +23,7 @@
 name:        Phan Thiện Quang
 handle:      NeroPQ
 education:   FPT University 🎓
-community:   Active Member @ SiTi Group 🎨🤝
+affiliation: FPT Information Assurance
 focus_areas:
   red_team:       ["External Pentesting", "OSINT & Recon", "Web/Binary Exploitation"]
   blue_team_&_ai: ["Ransomware AI Detection", "Metadata Defense", "Network Forensics", "Security GRC"]
